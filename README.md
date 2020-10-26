@@ -9,10 +9,10 @@
 3 in a row wins. 🎰
 
 ### PvP
-![Imgur](https://i.imgur.com/urhn4bg.gifv)
+![Imgur](https://i.imgur.com/urhn4bg.gif)
 
 ### PvAi
-![Imgur](https://i.imgur.com/0MSWJNq.gifv)
+![Imgur](https://i.imgur.com/0MSWJNq.gif)
 
 ### To-Do
 
